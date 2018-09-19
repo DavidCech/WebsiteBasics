@@ -1,0 +1,26 @@
+@charset "UTF-8";
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #0000ff;
+  font-size: 42px;
+  text-decoration: underline;
+  font-style: italic;
+  font-weight: normal;
+
+  border: 1px solid black;
+  margin: 35px 50px 20px 15 px;
+  padding: 5px 5px 5px 5px;
+
+  background-color: salmon;
+}
+table,
+td,
+th {
+  width: 100;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+p {
+  text-align: justify;
+}
